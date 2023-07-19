@@ -11,6 +11,7 @@
 *  JAVASCRIPT
 *  SQL
 *  PYTHON
+*  C
 
 
 ## 🔗 Links
