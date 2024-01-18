@@ -24,7 +24,7 @@
 
 👯‍♀️ I'm looking to collaborate on any interesting projects.
 
-⚡️ You can reach me on [whatsapp](https://wa.me/2348096653101).
+⚡️ You can reach me on [whatsapp](https://wa.me/2349039419430).
 
 
 # AbrahamAlgorithm
