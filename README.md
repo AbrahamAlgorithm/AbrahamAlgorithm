@@ -12,6 +12,8 @@
 *  SQL
 *  PYTHON
 *  C
+*  RUBY
+*  SHELL
 
 
 ## 🔗 Links
