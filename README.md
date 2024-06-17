@@ -1,9 +1,9 @@
-# 🏄‍♂️ Abraham Folorunso
+# Hey Techie, you can call me Abraham Algorithm 👋
 
 
-**`Digital Craftsman (Web Developer | Cloud DevOps Engineer | Machine Learning | Graphics Designer | Ethical Hacker)`**
+**`Digital Craftsman (Web Developer | Cloud DevOps Engineer | Machine Learning | Graphics Designer | Ethical Hacker`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am basically a software Engineer With interest in languages like C, Python, Javascript, Go amongst other technologies I have picked up and tried to build projects with. I publish most content on my YouTube channel (Henqsoft)[youtube], TikTok channel [Hensoft][tiktok], Facebook page [henryfasakin][facebook], Twitter(X) page [Henqsoft][twitter] to more than 400k subscribers.
+I'm Abraham Folorunso, a budding software engineer known as Abraham Algorithm. I'm passionate about leveraging technology and community impact to solve real-world problems, thereby creating a sustainable world for all
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Graphics+designer)](https://git.io/typing-svg)
 
