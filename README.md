@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (Web Developer | Cloud DevOps Engineer | Machine Learning | Graphics Designer | Ethical Hacker`**
 
-I'm Abraham Folorunso, a budding software engineer known as Abraham Algorithm. I'm passionate about leveraging technology and community impact to solve real-world problems, thereby creating a sustainable world for all
+I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algorithm**. I'm passionate about leveraging technology and community impact to solve real-world problems, thereby creating a sustainable world for all
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Graphics+designer)](https://git.io/typing-svg)
 
