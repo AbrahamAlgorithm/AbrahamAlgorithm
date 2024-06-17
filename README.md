@@ -1,4 +1,3 @@
-![1716317525603-1c432c40-7d18-f472-3264-c973b5cf42d4](https://github.com/AbrahamAlgorithm/AbrahamAlgorithm/assets/138019892/0ae5265d-ffe9-40e1-b5c4-7bff50638bea)
 # 🏄‍♂️ Abraham Folorunso
 
 
@@ -21,16 +20,16 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-- 💻 I am highly engaged with building for the Pipeops Hackathon
-- 🔭 I’m currently working on **Payham**(An innovative fintech application designed to provide financial inclusion across Africa and globally) and **Labhood**(A social media hub for developers)
+- 👨‍💻 I am a Software Engineer in training with ALX SE Africa C18
+- 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Graphuc Designer.
+- 🔭 I’m currently working on **Payham**(An innovative fintech application designed to provide financial inclusion across Africa and globally) and **Pipance**(An application that bridges the gap between users and recycling companies)
 - 🌱 I’m learning Web technologies, Backend, Python, and C.
 - 💻 I'm currently part of the Wema Hackaholics and Pipeops Hackathon
 - 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
-- 🤔 I’m looking for help with Funding
-- 💬 Ask me about Tech(web development, Design, Linux), God, Music.
-- 📫 How to reach me: You can reach me via my email fasakinhenry@gmail.com or my social platforms
+- 🤔 I’m always available to guide and support you in Tech
+- 💬 Ask me about Tech(Web development, DevOps, Graphic Design, Linux), Christ and K-dramas(historical).
+- 📫 How to reach me: You can reach me via my email abrahamfolorunso6@gmail.com or any of my social handles
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that😜👍. I love Music, football, tech events, and doing a lot of different hobbies. I mean the list seems endless. I am an all-in-one package.
 
 #
 
@@ -59,11 +58,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 ### 📊 Github Stats
-
-![Abraham Algorithm's stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamAlgorithm)](https://github.com/AbrahamAlgorithm/github-readme-stats))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&hide_border=true&text_color=87ff87&title_color=87ff87&layout=compact&theme=transparent)
+[![AbrahamAlgorithm's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AbrahamAlgorithm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AbrahamAlgorithm/github-readme-stats#gh-dark-mode-only)
+[![AbrahamAlgorithm's stats-Light](https://github-readme-stats.vercel.app/api?username=aAbrahamAlgorithm&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AbrahamAlgorithm/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamAlgorithm&hide_border=true&text_color=87ff87&title_color=87ff87&layout=compact&theme=transparent)
 <br/>
-
-[facebook]: https://facebook.com/henry.fasakin.7
-[twitter]: https://facebook.com/henry.fasakin.7
 </details>
