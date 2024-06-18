@@ -8,7 +8,6 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Graphics+designer)](https://git.io/typing-svg)
 
 <h1>About Me ⚡</h1>
-#
 
 - 👨‍💻 I am a Software Engineer in training with ALX SE Africa C18
 - 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Graphuc Designer.
