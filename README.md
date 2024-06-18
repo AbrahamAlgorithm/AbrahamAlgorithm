@@ -11,8 +11,7 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
 [![X Badge](https://img.shields.io/badge/AbrahamAlgorith?style=flat&labelColor=1ca0f1&logo=x&logoColor=white)](https://twitter.com/AbrahamAlgorith) [![Linkedin Badge](https://img.shields.io/badge/folorunso-abraham-939a9b236?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/folorunso-abraham-939a9b236) [![Instagram Badge](https://img.shields.io/badge/abrahamalgorithm?igsh=NzlydTYwMjlhODUx?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/abrahamalgorithm?igsh=NzlydTYwMjlhODUx) [![Facebook Badge](https://img.shields.io/badge/folorunso.abraham.5?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/folorunso.abraham.5)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbrahamAlgorithm&label=Profile%20views&color=6805D3&style=flat" alt="AbrahamAlgorithm" />
-   <div align="center">
+  <img <div align="center"> src="https://komarev.com/ghpvc/?username=AbrahamAlgorithm&label=Profile%20views&color=6805D3&style=flat" alt="AbrahamAlgorithm" />
   <a href="https://www.linkedin.com/in/fasakin-henry/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/henqsoft"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
@@ -53,7 +52,7 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Ruby/Ruby-original.svg" />
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 <br />
 
 #
