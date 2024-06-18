@@ -49,8 +49,6 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
   <img alt="React JS" src="https://img.shields.io/badge/react.js-0078D4?style=for-the-badge&logo=react.js&logoColor=white" />
   <img alt="Next JS" src="https://img.shields.io/badge/next.js-0078D4?style=for-the-badge&logo=next.js&logoColor=white" />
  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
- <img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
- <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -70,7 +68,6 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-0078D4?style=for-the-badge&logo=React%20Native&logoColor=white" />
      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
       <img alt="AWS" src="https://img.shields.io/badge/aws-F7931E?style=for-the-badge&logo=aws&logoColor=white" />
-      <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
 </p>
 
 #
