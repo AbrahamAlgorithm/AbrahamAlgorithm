@@ -7,20 +7,6 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Graphics+designer)](https://git.io/typing-svg)
 
-<!-- The social media sections area -->
-[![X Badge](https://img.shields.io/badge/AbrahamAlgorith?style=flat&labelColor=1ca0f1&logo=x&logoColor=white)](https://twitter.com/AbrahamAlgorith) [![Linkedin Badge](https://img.shields.io/badge/folorunso-abraham-939a9b236?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/folorunso-abraham-939a9b236) [![Instagram Badge](https://img.shields.io/badge/abrahamalgorithm?igsh=NzlydTYwMjlhODUx?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/abrahamalgorithm?igsh=NzlydTYwMjlhODUx) [![Facebook Badge](https://img.shields.io/badge/folorunso.abraham.5?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/folorunso.abraham.5)
-
-<img src="https://komarev.com/ghpvc/?username=AbrahamAlgorithm&label=Profile%20views&color=6805D3&style=flat" alt="AbrahamAlgorithm" />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fasakin-henry/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/henqsoft"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/1149504042922430534" alt="Discord" title="Fasakin Henry's Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
 #
 
 - 👨‍💻 I am a Software Engineer in training with ALX SE Africa C18
@@ -35,6 +21,21 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
 - 😄 Pronouns: He/Him
 
 #
+
+<!-- The social media sections area -->
+[![X Badge](https://img.shields.io/badge/AbrahamAlgorith?style=flat&labelColor=1ca0f1&logo=x&logoColor=white)](https://twitter.com/AbrahamAlgorith) [![Linkedin Badge](https://img.shields.io/badge/folorunso-abraham-939a9b236?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/folorunso-abraham-939a9b236) [![Instagram Badge](https://img.shields.io/badge/abrahamalgorithm?igsh=NzlydTYwMjlhODUx?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/abrahamalgorithm?igsh=NzlydTYwMjlhODUx) [![Facebook Badge](https://img.shields.io/badge/folorunso.abraham.5?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/folorunso.abraham.5)
+
+<img src="https://komarev.com/ghpvc/?username=AbrahamAlgorithm&label=Profile%20views&color=6805D3&style=flat" alt="AbrahamAlgorithm" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fasakin-henry/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/henqsoft"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/1149504042922430534" alt="Discord" title="Fasakin Henry's Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 
 ### 🧰 Languages and Tools
 
