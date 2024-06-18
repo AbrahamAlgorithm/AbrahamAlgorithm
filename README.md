@@ -1,6 +1,6 @@
-<h1 align="center">Hey Techie, you can call me Abraham Algorithm 👋</h1>
+# Hey Techie, you can call me *Abraham Algorithm* 👋
 
-<h1 align="center">About Me ⚡</h1>
+# About Me ⚡
 
 **`Digital Craftsman (Web Developer | Cloud DevOps Engineer | Machine Learning | Graphics Designer | Ethical Hacker)`**
 
