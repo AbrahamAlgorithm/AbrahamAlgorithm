@@ -81,5 +81,6 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
 [![AbrahamAlgorithm's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AbrahamAlgorithm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AbrahamAlgorithm/github-readme-stats#gh-dark-mode-only)
 [![AbrahamAlgorithm's stats-Light](https://github-readme-stats.vercel.app/api?username=aAbrahamAlgorithm&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AbrahamAlgorithm/github-readme-stats#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamAlgorithm&hide_border=true&text_color=87ff87&title_color=87ff87&layout=compact&theme=transparent)
+![AbrahamAlgorithm's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AbrahamAlgorithm&stroke=87ff87&ring=87ff87&fire=87ff87&currStreakNum=87ff87&currStreakLabel=87ff87&sideNums=87ff87&sideLabels=87ff87&dates=87ff87&hide_border=true&theme=transparent)
 <br/>
 </details>
