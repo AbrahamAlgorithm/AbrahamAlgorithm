@@ -19,7 +19,6 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/1149504042922430534" alt="Discord" title="Fasakin Henry's Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-     <div align="center">
 </p>
 
 #
