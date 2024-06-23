@@ -23,7 +23,7 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
 - 📫 How to reach me: You can reach me via my email abrahamfolorunso6@gmail.com or any of my social handles
 - 😄 Pronouns: He/Him
 
-#
+# 
 
 ### 🧰 Languages and Tools
 
