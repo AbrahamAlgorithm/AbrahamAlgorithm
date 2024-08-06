@@ -19,7 +19,7 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
 - 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
 - 🤔 I’m always available to guide and support you in your Tech journey.
 - 💬 Ask me anything about Christ, Tech(Web development, DevOps, Graphic Design, Linux) and K-dramas(historical).
-- 📫 How to reach me: You can reach me via my email abrahamfolorunso6@gmail.com or any of my social handles
+- 📫 How to reach me: You can reach me via my email **`abrahamfolorunso6@gmail.com`** or any of my social handles
 - 😄 Pronouns: He/Him
 
 # 
