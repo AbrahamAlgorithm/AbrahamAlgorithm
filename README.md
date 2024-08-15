@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Web Developer | Cloud DevOps Engineer | Machine Learning | Graphics Designer | Ethical Hacker)`**
 
-I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algorithm**. I'm passionate about leveraging technology and community impact to solve real-world problems, thereby creating a sustainable world for all
+I'm **Abraham Folorunso**, known as **Abraham Algorithm**. I am a budding Software Engineer, currently in training with the ALX Software Engineering program. I have experience in various programming language such as: **`Python, C - Programming, Ruby, Javascript and Bash for shell scripting`** and frontend frameworks like **`React.js, Next.js, Angular, Vue.js`** and **`Node.js, Flask, Django, FastApi, and  Scrapy`** for backend, Also have experience with Docker, Kubernetes, Jenkins, and Terraform for DevOps.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Graphics+designer)](https://git.io/typing-svg)
 
@@ -13,9 +13,9 @@ I'm **Abraham Folorunso**, a budding software engineer known as **Abraham Algori
 #
 
 - 👨‍💻 I am a Software Engineer in training with ALX SE Africa C18
+- 🌱 I’m currently learning Docker, Kubernetes, Jenkins, and Terraform for DevOps.
 - 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Graphics Designer.
 - 🔭 I’m currently working on **Payham**(An innovative fintech application designed to provide financial inclusion across Africa and globally) and **Pipance**(An application that bridges the gap between users and recycling companies)
-- 🌱 I’m currently learning Docker, Kubernetes, Jenkins, and Terraform for DevOps.
 - 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
 - 🤔 I’m always available to guide and support you in your Tech journey.
 - 💬 Ask me anything about Christ, Tech(Web development, DevOps, Graphic Design, Linux) and K-dramas(historical).
