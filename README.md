@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Web Developer | Cloud DevOps Engineer | Machine Learning | Graphics Designer | Ethical Hacker)`**
 
-I'm **Abraham Folorunso**, known as **Abraham Algorithm**. I am a budding Software Engineer, currently in training with the ALX Software Engineering program. I have experience in various programming language such as: **`Python, C - Programming, Ruby, Javascript and Bash for shell scripting`** and frontend frameworks like **`React.js, Next.js, Angular, Vue.js`** and **`Node.js, Flask, Django, FastApi, and  Scrapy`** for backend, Also have experience with Docker, Kubernetes, Jenkins, and Terraform for DevOps.
+I'm **Abraham Folorunso**, known as **Abraham Algorithm**. I am a budding Software Engineer, currently in training with the ALX Software Engineering program. I have experience in various programming language such as: **`Python, C - Programming, Ruby, Javascript and Bash for shell scripting`**, i also make use of frontend frameworks like **`React.js, Next.js, Angular, Vue.js`** and **`Node.js, Flask, Django, FastApi, and  Scrapy`** for backend. Also have experience with Docker, Kubernetes, Jenkins, and Terraform for DevOps.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Graphics+designer)](https://git.io/typing-svg)
 
