@@ -67,9 +67,5 @@ I'm **Abraham Folorunso**, known as **Abraham Algorithm**. I am a budding Softwa
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamAlgorithm&hide_border=true&text_color=87ff87&title_color=87ff87&layout=compact&theme=transparent)
 ![AbrahamAlgorithm's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AbrahamAlgorithm&stroke=87ff87&ring=87ff87&fire=87ff87&currStreakNum=87ff87&currStreakLabel=87ff87&sideNums=87ff87&sideLabels=87ff87&dates=87ff87&hide_border=true&theme=transparent)
 <br/>
-<div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
-	<img width=53% src="https://github-readme-stats.vercel.app/api?username=AbrahamAlgorithm&show_icons=true&theme=jolly&layout=compact" alt="stats"/>
-  	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamAlgorithm&langs_count=8&theme=jolly&layout=compact" alt="top langs"/>
-    </div>
 
 </details>
