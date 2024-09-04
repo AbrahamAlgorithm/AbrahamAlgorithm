@@ -16,7 +16,7 @@ I'm **Abraham Folorunso**, known as **Abraham Algorithm**. I am a budding Softwa
 - 👨‍💻 I am a Software Engineer in training with ALX SE Africa C18
 - 🌱 I’m currently learning Docker, Kubernetes, Jenkins, and Terraform for DevOps.
 - 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Graphics Designer.
-- 🔭 I’m currently working on **Payham**(An innovative fintech application designed to provide financial inclusion across Africa and globally) and **Pipance**(An application that bridges the gap between users and recycling companies)
+- 🔭 Python intern at Oasis-Infobyte
 - 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
 - 🤔 I’m always available to guide and support you in your Tech journey.
 - 💬 Ask me anything about Christ, Tech(Web development, DevOps, Graphic Design, Linux) and K-dramas(historical).
