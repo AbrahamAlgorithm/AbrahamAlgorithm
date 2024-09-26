@@ -13,7 +13,7 @@ I'm **Abraham Folorunso**, known as **Abraham Algorithm**. I am a budding Softwa
 
 #
 
-- 👨‍💻 I am a Software Engineer in training with ALX SE Africa C18
+- 👨‍💻 Africa Leadership Experience(ALX) Software Engineering Graduate (holberton school)
 - 🌱 I’m currently learning Docker, Kubernetes, Jenkins, and Terraform for DevOps.
 - 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Graphics Designer.
 - 🔭 Python intern at Oasis-Infobyte
