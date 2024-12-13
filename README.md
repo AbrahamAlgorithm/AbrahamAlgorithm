@@ -1,11 +1,15 @@
 
-# Hey Techie, you can call me *Abraham Algorithm* 👋
+# Hey there 👋, i'm <a href="https://www.linkedin.com/in/abrahamfolorunso/" target="_blank"> *Abraham Folorunso* </a>
 
 # About Me ⚡
 
-**`Digital Craftsman (Web Developer | Cloud DevOps Engineer | Machine Learning | Graphics Designer | Ethical Hacker)`**
+**`Digital Craftsman (Web Developer | Automation Engineer | ML/AI Enthusiast | Graphics Designer | Pentester)`**
 
-I'm **Abraham Folorunso**, known as **Abraham Algorithm**. I am a Software Engineer deeply passionate about tech and developer communities, Also an ALX Software Engineering graduate. I have experience in various programming language such as: **`Python, C - Programming, Ruby, Javascript and Bash for shell scripting`**, i also make use of frontend frameworks like **`React.js, Next.js, Angular, Vue.js`** and **`Node.js, Flask, Django, FastApi, and  Scrapy`** for backend. Also have experience with Docker, Kubernetes, Jenkins, and Terraform for DevOps.
+I'm Abraham Folorunso, also known as Abraham Algorithm. I am a Software Engineer I am a graduate of the ALX Software Engineering program and a penultimate-year student at the Federal University of Technology Minna, Niger State, pursuing my Bachelor of Technology.. I love exploring technology and finding ways to make processes easier and more efficient. **`I have experience with Python, C, Ruby, JavaScript, and Bash for shell scripting.`**
+
+I work with frameworks like **`React.js, Next.js, Flask, Django, and Node.js,`** and I’m skilled in DevOps tools like **`Docker, Kubernetes, Jenkins, and Terraform`**. I’m passionate about automation—if I can do it manually, I’ll find a way to automate it.
+
+My current focus is on backend technologies and building advanced automation systems and bots that solve problems and make life easier for everyone. I believe technology holds the key to solving many real-world challenges, and I’m dedicated to contributing to that vision through my skills and innovations.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Graphics+designer)](https://git.io/typing-svg)
 
