@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Web Developer | Automation Engineer | ML/AI Enthusiast | Graphics Designer | Pentester)`**
 
-I'm Abraham Folorunso, also known as Abraham Algorithm. I am a Software Engineer and a graduate of the ALX Software Engineering program, i'm currently in my penultimate year at Federal University of Technology Minna, Niger State, pursuing my Bachelor of Technology... I love exploring technology and finding ways to make processes easier and more efficient. **`I have experience with Python, C, Ruby, JavaScript, and Bash for shell scripting.`**
+I'm Abraham Folorunso, also known as Abraham Algorithm. I am a Software Engineer and a graduate of the ALX Software Engineering program, i'm currently in my penultimate year at Federal University of Technology Minna, Niger State, pursuing my Bachelor of Technology... I love exploring technology and finding ways to make processes easier and more efficient. **`I have experience with C, Python, Golang, JavaScript, Typescript and Bash for shell scripting.`**
 
 I work with frameworks like **`React.js, Next.js, Flask, Django, and Node.js,`** and I’m skilled in DevOps tools like **`Docker, Kubernetes, Jenkins, and Terraform`**. I’m passionate about automation—if I can do it manually, I’ll find a way to automate it.
 
