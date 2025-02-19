@@ -13,7 +13,6 @@ My current focus is on backend technologies and building advanced automation sys
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Graphics+designer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AbrahamAlgorithm&label=Profile%20views&color=6805D3&style=flat" alt="AbrahamAlgorithm" />
-
 #
 
 - 👨‍💻 Graduate - Africa Leadership Experience(ALX) Software Engineering (holberton school)
