@@ -1,7 +1,7 @@
 # Hey there 👋, i'm <a href="https://www.linkedin.com/in/abrahamfolorunso/" target="_blank"> *Abraham Folorunso* </a>
  
 # About Me ⚡
-
+ 
 **`Digital Craftsman (Web Developer | Automation Engineer | ML/AI Enthusiast | Graphics Designer | Pentester)`**
 
 I'm Abraham Folorunso, also known as Abraham Algorithm. I am a Software Engineer and a graduate of the ALX Software Engineering program, i'm currently in my penultimate year at Federal University of Technology Minna, Niger State, pursuing my Bachelor of Technology... I love exploring technology and finding ways to make processes easier and more efficient. **`I have experience with C, Python, Golang, JavaScript, Typescript and Bash for shell scripting.`**
