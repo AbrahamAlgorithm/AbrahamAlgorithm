@@ -14,20 +14,6 @@ My current focus is on backend technologies and building advanced automation sys
 
 <img src="https://komarev.com/ghpvc/?username=AbrahamAlgorithm&label=Profile%20views&color=6805D3&style=flat" alt="AbrahamAlgorithm" />
 
-#
-
-- 👨‍💻 Graduate - Africa Leadership Experience(ALX) Software Engineering (holberton school)
-- 🌱 I’m currently learning Docker, Kubernetes, Jenkins, and Terraform for DevOps.
-- 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Graphics Designer.
-- 🔭 Python intern at Oasis-Infobyte
-- 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
-- 🤔 I’m always available to guide and support you in your Tech journey.
-- 💬 Ask me anything about Christ, Tech(Web development, DevOps, Graphic Design, Linux) and K-dramas(historical).
-- 📫 How to reach me: You can reach me via my email **`abrahamfolorunso6@gmail.com`** or any of my social handles
-- 😄 Pronouns: He/Him
-
-# 
-
 ### 🧰 Languages and Tools
 
 <p align="center"> 
