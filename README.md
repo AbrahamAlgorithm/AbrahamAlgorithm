@@ -1,8 +1,8 @@
 # Hey there 👋, i'm <a href="https://www.linkedin.com/in/abrahamfolorunso/" target="_blank"> *Abraham Folorunso* </a>
  
-**`Digital Craftsman (Fullstack Developer | DevOps Engineer | ML/AI | Pentester)`**
+**`Full Stack Engineer • Cloud Engineer • DevOps Engineer • Community Builder`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+%26+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Full+Stack+Engineer;Cloud+Engineer;DevOps+Engineer;Technical+Community+Leader;Building+Scalable+Software+and+Cloud+Solutions)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AbrahamAlgorithm&label=Profile%20views&color=6805D3&style=flat" alt="AbrahamAlgorithm" />
 
