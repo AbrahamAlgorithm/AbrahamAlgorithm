@@ -5,7 +5,7 @@ I'm Abraham Folorunso (Abraham Algorithm).
 
 I'm a Software Engineer from Nigeria building across software, cloud infrastructure, DevOps, and AI. I started with full-stack development and have gradually moved deeper into cloud-native systems, infrastructure automation, security, and AI engineering.
 
-I enjoy understanding how things work beyond the surface — from building an application and its APIs to deploying it, securing it, and figuring out how to make it reliable in production.
+I enjoy understanding how things work beyond the surface - from building an application and its APIs to deploying it, securing it, and figuring out how to make it reliable in production.
 
 I'm also heavily involved in developer communities, where I organise technical programmes, hackathons, and learning experiences for other developers.
 
