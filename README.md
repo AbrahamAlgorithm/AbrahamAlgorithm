@@ -6,4 +6,3 @@ I'm Abraham Folorunso (Abraham Algorithm), a software engineer with several year
 I'm also heavily involved in developer communities, where I organise technical programmes, hackathons, and learning experiences for other developers.
 
 - LinkedIn: https://www.linkedin.com/in/abrahamfolorunso/ 
-- Upwork Web Scraping Expert - https://www.upwork.com/freelancers/~01022bbc2373c0afc4
